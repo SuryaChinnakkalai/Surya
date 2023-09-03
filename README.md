@@ -1,4 +1,4 @@
-# Surya
+# Surya - Power BI Projects
 Power BI Projects
 
 The below projects are the recent ones. I am still developing new projects and adding it here.
